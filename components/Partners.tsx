@@ -1,0 +1,1 @@
+export default function Partners(){const logos=['amazon','accenture','Citi','Wipro','Genpact','EY','Deloitte'];return <section className="section partner-section"><p className="section-kicker">POWERING CAPABILITY AT SCALE</p><h2>Learning partners for ambitious organizations.</h2><div className="logo-row">{logos.map(x=><div key={x}>{x}</div>)}</div></section>}
