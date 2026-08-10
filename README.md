@@ -1,4 +1,4 @@
-# Accredian Enterprise — Partial Clone
+# Accredian Enterprise — Full Website Implementation
 
 A responsive enterprise landing page built with Next.js App Router, React, TypeScript and clean CSS. The project focuses on reusable components, responsive behavior, smooth section navigation, interactive FAQ, and a working Next.js API lead-capture route.
 
