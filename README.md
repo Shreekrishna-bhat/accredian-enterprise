@@ -4,7 +4,7 @@ A responsive enterprise landing page built with Next.js App Router, React, TypeS
 
 ## Live Demo
 
-Add your Vercel URL here after deployment.
+https://accredian-enterprise-zfcg.vercel.app/
 
 ## Tech Stack
 
